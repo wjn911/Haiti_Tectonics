@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Haiti_agu_revised_3_clean.aux
+The style file: agufull08.bst
+Database file #1: Haiti.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 67 entries,
+            3076 wiz_defined-function locations,
+            1458 strings with 25264 characters,
+and the built_in function-call counts, 63446 in all, are:
+= -- 6530
+> -- 2670
+< -- 23
++ -- 1083
+- -- 749
+* -- 4166
+:= -- 6422
+add.period$ -- 67
+call.type$ -- 67
+change.case$ -- 279
+chr.to.int$ -- 68
+cite$ -- 67
+duplicate$ -- 6889
+empty$ -- 3625
+format.name$ -- 949
+if$ -- 12586
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 753
+newline$ -- 208
+num.names$ -- 268
+pop$ -- 2286
+preamble$ -- 1
+purify$ -- 211
+quote$ -- 0
+skip$ -- 3649
+stack$ -- 0
+substring$ -- 2441
+swap$ -- 5700
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 600
+warning$ -- 0
+while$ -- 344
+width$ -- 0
+write$ -- 740

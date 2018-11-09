@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Haiti_agu_revised_2.aux
+The style file: agufull08.bst
+Database file #1: Haiti.bib
+Repeated entry---line 996 of file Haiti.bib
+ : @article{bilham2013remote
+ :                          ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 62 entries,
+            3076 wiz_defined-function locations,
+            1431 strings with 24159 characters,
+and the built_in function-call counts, 60456 in all, are:
+= -- 6276
+> -- 2522
+< -- 22
++ -- 1032
+- -- 708
+* -- 3935
+:= -- 6059
+add.period$ -- 62
+call.type$ -- 62
+change.case$ -- 257
+chr.to.int$ -- 63
+cite$ -- 62
+duplicate$ -- 6590
+empty$ -- 3421
+format.name$ -- 893
+if$ -- 12003
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 710
+newline$ -- 193
+num.names$ -- 248
+pop$ -- 2192
+preamble$ -- 1
+purify$ -- 195
+quote$ -- 0
+skip$ -- 3504
+stack$ -- 0
+substring$ -- 2375
+swap$ -- 5499
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 555
+warning$ -- 0
+while$ -- 327
+width$ -- 0
+write$ -- 684
+(There was 1 error message)

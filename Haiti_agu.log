@@ -1,0 +1,1477 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  29 MAR 2018 23:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Haiti_agu.tex
+(./Haiti_agu.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(./agujournal.cls
+Document Class: agujournal 08/06/2016
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/newtxtext.sty
+Package: newtxtext 2017/03/11 v1.521
+
+`newtxtext' v1.521, 2017/03/11 Text macros taking advantage of TeX-Gyre Termes 
+fonts (msharpe)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+)
+\ntx@fs=\dimen102
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count79
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count80
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+Package textcomp Info: Changing ? sub-encoding to TS1/0 on input line 80.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/newtxmath.sty
+Package: newtxmath 2017/02/12 v1.518
+
+`newtxmath' v1.518, 2017/02/12 Math macros based on txfonts (msharpe)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count81
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count82
+\leftroot@=\count83
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count84
+\DOTSCASE@=\count85
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count86
+\c@MaxMatrixCols=\count87
+\dotsspace@=\muskip10
+\c@parentequation=\count88
+\dspbrk@lvl=\count89
+\tag@help=\toks17
+\row@=\count90
+\column@=\count91
+\maxfields@=\count92
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/kastrup/binhex.tex)
+\tx@Isdigit=\count93
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 153.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ntxtlf/m/n on input line 153.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/m/n on input line 153.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/ntxtlf/m/n --> OT1/ntxtlf/b/n on input line 154.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 160.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/qhv/m/n on input line 160.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/qhv/m/n on input line 160.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 161.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ntxtlf/m/it on input line 161.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ntxtlf/m/it on input line 161.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 162.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 162.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 162.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 164.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 164.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 164.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/ntxtlf/m/it --> OT1/ntxtlf/b/it on input line 165.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 166.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/ntxtt/m/n --> T1/ntxtt/b/n on input line 167.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 218.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 218.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 218.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 219.
+\symlettersA=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 235.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 256.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 256.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 256.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 256.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 256.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 257.
+\symAMSm=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 280.
+\symsymbolsC=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 301.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 314.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 3
+14.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 314.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 314
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 314.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 315.
+\symlargesymbolsTXA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 329.
+LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 500.
+LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 501.
+LaTeX Font Info:    Redeclaring math delimiter \lmoustache on input line 502.
+LaTeX Font Info:    Redeclaring math delimiter \rmoustache on input line 503.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 509.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 510.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 511.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 512.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 513.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 514.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 515.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 517.
+LaTeX Font Info:    Redeclaring math symbol \mid on input line 519.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 521.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 522.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 523.
+LaTeX Font Info:    Redeclaring math delimiter \Arrowvert on input line 524.
+LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 525.
+LaTeX Font Info:    Redeclaring math delimiter \updownarrow on input line 527.
+LaTeX Font Info:    Redeclaring math delimiter \Updownarrow on input line 528.
+LaTeX Font Info:    Redeclaring math delimiter \lvert on input line 533.
+LaTeX Font Info:    Redeclaring math delimiter \rvert on input line 534.
+LaTeX Font Info:    Redeclaring math delimiter \lVert on input line 535.
+LaTeX Font Info:    Redeclaring math delimiter \rVert on input line 536.
+LaTeX Info: Redefining \not on input line 2099.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count95
+\output=\toks21
+\linenoprevgraf=\count96
+\linenumbersep=\dimen114
+\linenumberwidth=\dimen115
+\c@linenumber=\count97
+\c@pagewiselinenumber=\count98
+\c@LN@truepage=\count99
+\c@internallinenumber=\count100
+\c@internallinenumbers=\count101
+\quotelinenumbersep=\dimen116
+\bframerule=\dimen117
+\bframesep=\dimen118
+\bframebox=\box28
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip44
+\RaggedLeftLeftskip=\skip45
+\RaggedRightLeftskip=\skip46
+\CenteringRightskip=\skip47
+\RaggedLeftRightskip=\skip48
+\RaggedRightRightskip=\skip49
+\CenteringParfillskip=\skip50
+\RaggedLeftParfillskip=\skip51
+\RaggedRightParfillskip=\skip52
+\JustifyingParfillskip=\skip53
+\CenteringParindent=\skip54
+\RaggedLeftParindent=\skip55
+\RaggedRightParindent=\skip56
+\JustifyingParindent=\skip57
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count102
+\rotFPtop=\skip58
+\rotFPbot=\skip59
+\rot@float@box=\box29
+\rot@mess@toks=\toks22
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box30
+\UL@hyphenbox=\box31
+\UL@skip=\skip60
+\UL@hook=\toks23
+\UL@height=\dimen119
+\UL@pe=\count103
+\UL@pixel=\dimen120
+\ULC@box=\box32
+Package: ulem 2012/05/18
+\ULdepth=\dimen121
+)
+\draftskip=\count104
+\c@section=\count105
+\c@subsection=\count106
+\c@subsubsection=\count107
+\c@paragraph=\count108
+\c@subparagraph=\count109
+\c@figure=\count110
+\c@table=\count111
+\abovecaptionskip=\skip61
+\belowcaptionskip=\skip62
+\c@appendnum=\count112
+\bibindent=\dimen122
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip63
+\bibsep=\skip64
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count113
+)
+\refchangenumber=\count114
+\listchangenum=\count115
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks24
+\SOUL@lasttoken=\toks25
+\SOUL@cmds=\toks26
+\SOUL@buffer=\toks27
+\SOUL@token=\toks28
+\SOUL@spaceskip=\skip65
+\SOUL@ttwidth=\dimen123
+\SOUL@uldp=\dimen124
+\SOUL@ulht=\dimen125
+)
+LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 6.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
+File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 6.
+
+(./Haiti_agu.aux)
+\openout1 = `Haiti_agu.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 6.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 6.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 6.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 6.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 6.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 6.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 6.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 6.
+LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 6
+.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 6.
+\c@mv@tabular=\count116
+\c@mv@boldtabular=\count117
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count118
+\scratchdimen=\dimen126
+\scratchbox=\box33
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen127
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
+\everyMPtoPDFconversion=\toks30
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 6.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 8.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 8.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.0pt on input line 8.
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 8.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
+File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
+)
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 4.49997pt on input line 8.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 10.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 11.
+LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 1
+1.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 11.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.2pt on input line 11.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.5pt on input line 11.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 11.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/untxmia.fd
+File: untxmia.fd 2016/01/31 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 11.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 11.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Try loading font information for T1+ntxsups on input line 1
+3.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/t1ntxsups.fd
+File: t1ntxsups.fd 2015/01/17 v1.0
+)
+LaTeX Font Info:    Font shape `T1/ntxsups/m/n' will be
+(Font)              scaled to size 8.0pt on input line 13.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 13.
+LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 13.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+File: t1ntxtt.fd 2012/04/20 v3.1
+)
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 9.0pt on input line 13.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 15.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 15.
+
+Overfull \hbox (5.52515pt too wide) in paragraph at lines 18--19
+[]\T1/ntxtlf/m/n/10 Estimates of rel-a-tive ages of de-for-ma-tion of ma-jor st
+rike-slip fault-ing and $\OML/ntxmi/m/it/10 en []echelon$ 
+ []
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 9.0pt on input line 22.
+[1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.5pt on input line 26.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10.5> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.5pt on input line 26.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.0pt on input line 28.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+Overfull \hbox (5.19019pt too wide) in paragraph at lines 34--35
+\T1/ntxtlf/m/n/10 obliquely-trending, []north[]-[]dip[]-[]ping, Léogâne fault i
+n the east and the more obliquely-trending, 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 45.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/it' in size <10> not available
+(Font)              Font shape `T1/ntxtlf/b/it' tried instead on input line 58.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/it' will be
+(Font)              scaled to size 10.0pt on input line 58.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Overfull \hbox (6.58267pt too wide) in paragraph at lines 67--68
+[]\T1/ntxtlf/m/n/10 Following the 2010 earth-quake and the recog-ni-tion of the
+ north-dipping blind Léogâne 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 73.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 7.3pt on input line 73.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 5.5pt on input line 73.
+
+Overfull \hbox (18.19527pt too wide) in paragraph at lines 74--75
+[]\T1/ntxtlf/m/n/10 The pres-ence of a strike-slip fault at any scale is in-di-
+cated by the pres-ence of $\OML/ntxmi/m/it/10 en []echelon$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Overfull \hbox (1.00513pt too wide) in paragraph at lines 76--77
+\T1/ntxtlf/m/n/10 2010; \T1/ntxtlf/m/it/10 Hashimoto et al.\T1/ntxtlf/m/n/10 , 
+2011; \T1/ntxtlf/m/it/10 Bil-ham and Field-ing\T1/ntxtlf/m/n/10 , 2013] (Fig-ur
+e 2[]A). \T1/ntxtlf/m/it/10 Douilly et al. \T1/ntxtlf/m/n/10 [2013, 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Overfull \hbox (5.89026pt too wide) in paragraph at lines 95--96
+[]\T1/ntxtlf/m/n/10 In our sonar sur-vey of Lake Azuey, we ob-served that the m
+ost promi-nent folds present 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Overfull \hbox (0.24278pt too wide) in paragraph at lines 123--124
+\T1/ntxtlf/m/n/10 of Lake Mi-ragoâne is 42.8 m (Fig-ure 7[]B), which makes this
+ ac-tively faulted lake the deep- 
+ []
+
+
+Overfull \hbox (3.43526pt too wide) in paragraph at lines 123--124
+\T1/ntxtlf/m/n/10 est [\T1/ntxtlf/m/it/10 Higuera-Gundy et al.\T1/ntxtlf/m/n/10
+ , 1999] in the Caribbean re-gion. The 30 m of rec-og-niz-able stratig- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Overfull \hbox (1.24532pt too wide) in paragraph at lines 145--146
+\T1/ntxtlf/m/n/10 east-ern Haiti, sug-gests that the lat-est ac-tiv-ity of the 
+EPGFZ in this area was in 1751 [\T1/ntxtlf/m/it/10 Pren- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+Overfull \hbox (2.25775pt too wide) in paragraph at lines 152--153
+\T1/ntxtlf/m/n/10 Léogâne blind, thrust fault lo-cated 5 km north of the main, 
+Caribbean-Gonâve plate bound- 
+ []
+
+
+Overfull \hbox (0.71518pt too wide) in paragraph at lines 156--157
+\T1/ntxtlf/m/n/10 fault to the south dur-ing the 2010 earth-quake is the east-w
+est-striking, sub-vertical EPGFZ.  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+[21] (./Haiti_agu.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26])
+Package epstopdf Info: Source file: <Haiti_figure1.eps>
+(epstopdf)                    date: 2018-03-27 22:10:33
+(epstopdf)                    size: 31786530 bytes
+(epstopdf)             Output file: <Haiti_figure1-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-27 22:22:46
+(epstopdf)                    size: 3765206 bytes
+(epstopdf)             Command: <repstopdf --outfile=Haiti_figure1-eps-converte
+d-to.pdf Haiti_figure1.eps>
+(epstopdf)             \includegraphics on input line 173.
+Package epstopdf Info: Output file is already uptodate.
+
+<Haiti_figure1-eps-converted-to.pdf, id=97, 1108.14pt x 822.07124pt>
+File: Haiti_figure1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Haiti_figure1-eps-converted-to.pdf>
+Package pdftex.def Info: Haiti_figure1-eps-converted-to.pdf used on input line 
+173.
+(pdftex.def)             Requested size: 357.73405pt x 265.37622pt.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <9> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 175.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 9.0pt on input line 175.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 175.
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]\T1/ntxtlf/b/n/9 Figure  1. Tec-tonic set-ting of the north-east-ern Caribbea
+n and EPGFZ in south-ern Haiti. A: \T1/ntxtlf/m/n/9 Free-air
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 grav-ity anomaly map of the Greater An-tilles (Cuba, Ja-maica,
+ His-pan-iola, Puerto Rico) in the north-east-ern
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 Caribbean (http://topex.ucsd.edu) with grav-ity lows mark-ing 
+zones of sub-duc-tion or thrust-ing along ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 jor faults (black lines) of the North America-Caribbean plate 
+bound-ary. Ar-rows with er-ror el-lipses from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/it/9 Calais et al. \T1/ntxtlf/m/n/9 [2010] are GPS vec-tors show-i
+ng the di-rec-tion and ve-loc-ity of the large North Amer-i-can plate,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 the Ba-hamas []car[]-[]bon[]-[]ate plat-form (\T1/ntxtlf/b/n/9
+ BP\T1/ntxtlf/m/n/9 ), and in-ter-ven-ing mi-croplates rel-a-tive to a fixed Ca
+ribbean plate.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 Mi-croplates with vari-able rel-a-tive mo-tions oc-cupy the 20
+0 km-wide plate bound-ary zone and in-clude:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/b/n/9 NHM \T1/ntxtlf/m/n/9 = North His-pan-iola mi-croplate; \T1/ntx
+tlf/b/n/9 HM \T1/ntxtlf/m/n/9 = His-pan-iola mi-croplate; \T1/ntxtlf/b/n/9 GM \
+T1/ntxtlf/m/n/9 = Gonâve mi-croplate; \T1/ntxtlf/b/n/9 PRVIM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 = Puerto Rico-Virgin Is-lands mi-croplate. Box shows more de-t
+ailed map of the EPGFZ shown in B. \T1/ntxtlf/b/n/9 B:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 Re-gional struc-ture map of the south-ern penin-sula of Haiti 
+with the ac-tive, left-lateral Enriquillo-Plantain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 Gar-den fault zone (EPGFZ) from the $[]$ in the east to the []
+west[]-[]ern tip of the south-ern penin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 sula. $[]$ From east to west, key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 lakes and ma-rine em-bay-ments aligned par-al-lel and over-ly-
+ing the EPGFZ in-clude: \T1/ntxtlf/b/n/9 LE \T1/ntxtlf/m/n/9 = Lake En-riquillo
+,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 Do-mini-can Re-pub-lic; \T1/ntxtlf/b/n/9 LA \T1/ntxtlf/m/n/9 =
+ Lake Azuey, Haiti; []\T1/ntxtlf/b/n/9 PAPB \T1/ntxtlf/m/n/9 = Port-au-Prince B
+ay; \T1/ntxtlf/b/n/9 CS \T1/ntxtlf/m/n/9 = Canal du Sud; and []\T1/ntxtlf/b/n/9
+ LM \T1/ntxtlf/m/n/9 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 Lake Mi-ragoâne; \T1/ntxtlf/b/n/9 LF \T1/ntxtlf/m/n/9 = Léogân
+e fault. Boxes shows more de-tailed maps of the struc-ture of the EPGFZ and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 its sec-ondary faults shown in Fig-ure 2[]A and $[]$. \T1/ntxt
+lf/b/n/9 C: \T1/ntxtlf/m/n/9 Com-pos-ite, mul-ti-chan-nel seis-mic re-flec-tion
+ line
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 of high-angle faults in the Canal du Sud tied to the off-shore
+ Cul-de-Sac-1 well, the TBFZ, the EPGFZ, the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/ntxtlf/m/n/9 an-ti-cli-nal struc-ture of the south-ern penin-sula, and a la
+rge, south-verging ac-cre-tionary prism along the south
+ []
+
+
+LaTeX Warning: Float too large for page by 8.82722pt on input line 177.
+
+Package epstopdf Info: Source file: <Haiti_figure2.eps>
+(epstopdf)                    date: 2018-03-28 23:03:58
+(epstopdf)                    size: 29705478 bytes
+(epstopdf)             Output file: <Haiti_figure2-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 23:04:10
+(epstopdf)                    size: 2978855 bytes
+(epstopdf)             Command: <repstopdf --outfile=Haiti_figure2-eps-converte
+d-to.pdf Haiti_figure2.eps>
+(epstopdf)             \includegraphics on input line 181.
+Package epstopdf Info: Output file is already uptodate.
+<Haiti_figure2-eps-converted-to.pdf, id=98, 1360.08125pt x 1146.2825pt>
+File: Haiti_figure2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Haiti_figure2-eps-converted-to.pdf>
+Package pdftex.def Info: Haiti_figure2-eps-converted-to.pdf used on input line 
+181.
+(pdftex.def)             Requested size: 397.48499pt x 335.00206pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]\T1/ntxtlf/b/n/9 Figure  2. Struc-ture of the EPGFZ in east-ern Haiti. A: \T1
+/ntxtlf/m/n/9 Ge-o-logic faults and folds along a 15 km-wide
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+\T1/ntxtlf/m/n/9 cor-ri-dor par-al-lel to the EPGFZ su-per-im-posed on a mod-i-
+fied DEM and In-SAR sur-face de-for-ma-tion map
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+\T1/ntxtlf/m/n/9 [\T1/ntxtlf/m/it/9 Hayes et al.\T1/ntxtlf/m/n/9 , 2010; \T1/nt
+xtlf/m/it/9 Hashimoto et al.\T1/ntxtlf/m/n/9 , 2011]. Chirp bathymetry of the L
+ake Azuey is also shown. GPS vec-tors
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+\T1/ntxtlf/m/n/9 are from \T1/ntxtlf/m/it/9 Calais et al. \T1/ntxtlf/m/n/9 [201
+0]. $[]$; $[]$ \T1/ntxtlf/b/n/9 DT \T1/ntxtlf/m/n/9 = Du-may
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+\T1/ntxtlf/b/n/9 B: \T1/ntxtlf/m/n/9 Shaded DEM of the north-ern de-formed belt
+ in the Cul-de-Sac basin with il-lu-mi-na-tion from the Fig-ure 2[]A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+\T1/ntxtlf/m/n/9 show-ing $\OML/ntxmi/m/it/9 en []echelon$ \T1/ntxtlf/m/n/9 and
+ curvi-lin-ear folds $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+\T1/ntxtlf/m/n/9 and plung-ing be-neath un-de-formed sed-i-ments oc-cu-py-ing t
+he cen-ter of the Cul-de-Sac Val-ley. The in-serted
+ []
+
+Package epstopdf Info: Source file: <Haiti_figure4.eps>
+(epstopdf)                    date: 2018-03-28 16:38:08
+(epstopdf)                    size: 4620394 bytes
+(epstopdf)             Output file: <Haiti_figure4-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 19:04:11
+(epstopdf)                    size: 436253 bytes
+(epstopdf)             Command: <repstopdf --outfile=Haiti_figure4-eps-converte
+d-to.pdf Haiti_figure4.eps>
+(epstopdf)             \includegraphics on input line 188.
+Package epstopdf Info: Output file is already uptodate.
+<Haiti_figure4-eps-converted-to.pdf, id=99, 454.69875pt x 608.2725pt>
+File: Haiti_figure4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Haiti_figure4-eps-converted-to.pdf>
+Package pdftex.def Info: Haiti_figure4-eps-converted-to.pdf used on input line 
+188.
+(pdftex.def)             Requested size: 397.48499pt x 531.74522pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]\T1/ntxtlf/b/n/9 Figure  3. Style of late Neo-gene de-for-ma-tion in the nort
+h-ern belt along three tran-sects shown []on [][]the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[][]\T1/ntxtlf/b/n/9 map in Fig-ure 2[]. A-A': \T1/ntxtlf/m/n/9 Af-ter-shocks o
+f the 2010 earth-quake along the blind Léogâne thrust fault re-veals
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 189--189
+\T1/ntxtlf/m/n/9 con-ju-gate re-verse faults with the dom-i-nant slip oc-cur-ri
+ng on the north-dipping fault. []The [][]red [][]tri[]-[]an[]-[]gle [][]in[]-[]
+di[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\T1/ntxtlf/m/n/9 faults de-form-ing Plio-Pleistocene sed-i-men-tary rocks. \T1/
+ntxtlf/b/n/9 C-C': \T1/ntxtlf/m/n/9 Cross sec-tion based on both sonar sur-vey 
+and the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\T1/ntxtlf/m/n/9 sur-face map-ping show-ing north- and south-dipping, re-verse 
+faults de-form-ing Plio-Pleistocene sed-i-men-tary
+ []
+
+
+LaTeX Warning: Float too large for page by 13.36021pt on input line 191.
+
+Package epstopdf Info: Source file: <Haiti_figure6.eps>
+(epstopdf)                    date: 2018-03-28 20:12:23
+(epstopdf)                    size: 47210010 bytes
+(epstopdf)             Output file: <Haiti_figure6-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 20:12:33
+(epstopdf)                    size: 5137756 bytes
+(epstopdf)             Command: <repstopdf --outfile=Haiti_figure6-eps-converte
+d-to.pdf Haiti_figure6.eps>
+(epstopdf)             \includegraphics on input line 195.
+Package epstopdf Info: Output file is already uptodate.
+<Haiti_figure6-eps-converted-to.pdf, id=100, 921.4425pt x 825.0825pt>
+File: Haiti_figure6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Haiti_figure6-eps-converted-to.pdf>
+Package pdftex.def Info: Haiti_figure6-eps-converted-to.pdf used on input line 
+195.
+(pdftex.def)             Requested size: 397.48499pt x 355.91164pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+[]\T1/ntxtlf/b/n/9 Figure  4. Struc-ture of the EPGFZ in east-ern Haiti and wes
+tern-most Do-mini-can Re-pub-lic. A: \T1/ntxtlf/m/n/9 Struc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+\T1/ntxtlf/m/n/9 by a shal-low sill 30 m ASL in the isth-mus near the town of J
+i-mani. \T1/ntxtlf/b/n/9 B: \T1/ntxtlf/m/n/9 Com-par-i-son of two Chirp lines f
+rom
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+\T1/ntxtlf/m/n/9 Lake En-riquillo by \T1/ntxtlf/m/it/9 Rios et al. \T1/ntxtlf/m
+/n/9 [2013] (3 km-long Line L19) and from []our study of Lake Azuey (4 km-long
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+\T1/ntxtlf/m/n/9 Line B6). Iden-ti-cal se-quences present on both lines sug-ges
+t that the two lakes were once part of a sin-gle lake
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+\T1/ntxtlf/m/n/9 that has been re-cently sep-a-rated by crustal move-ments re-l
+ated to the EPGFZ near the Ji-mani area. Ages of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+\T1/ntxtlf/m/n/9 units are known from Lake En-riquillo through both ex-po-sures
+ around the sub-sea level lake and from cor-ing
+ []
+
+Package epstopdf Info: Source file: <Haiti_figure5.eps>
+(epstopdf)                    date: 2018-03-28 21:14:14
+(epstopdf)                    size: 12844562 bytes
+(epstopdf)             Output file: <Haiti_figure5-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 21:14:35
+(epstopdf)                    size: 624705 bytes
+(epstopdf)             Command: <repstopdf --outfile=Haiti_figure5-eps-converte
+d-to.pdf Haiti_figure5.eps>
+(epstopdf)             \includegraphics on input line 202.
+Package epstopdf Info: Output file is already uptodate.
+<Haiti_figure5-eps-converted-to.pdf, id=101, 1325.95375pt x 1044.90375pt>
+File: Haiti_figure5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Haiti_figure5-eps-converted-to.pdf>
+Package pdftex.def Info: Haiti_figure5-eps-converted-to.pdf used on input line 
+202.
+(pdftex.def)             Requested size: 397.48499pt x 313.23438pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+[]\T1/ntxtlf/b/n/9 Figure  5. Ge-o-logic set-ting of Lake Azuey, Haiti. A: \T1/
+ntxtlf/m/n/9 To the south, the green brack-ish wa-ters of Lake
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+\T1/ntxtlf/m/n/9 Azuey are bound by the EPGFZ which forms a sharp bound-ary wit
+h 2 km-high, folded lime-stone of Pa-le-o-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+\T1/ntxtlf/m/n/9 gene age that forms the smooth sur-faces on the sky-line. One 
+scarp is present along the edge of the lake while
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+\T1/ntxtlf/m/n/9 other par-al-lel strands of the EPGFZ are be-neath the south-e
+rn part of the lake as schemat-i-cally shown. \T1/ntxtlf/b/n/9 B: \T1/ntxtlf/m/
+n/9 To
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+\T1/ntxtlf/m/n/9 the north of the lake folded, Plio-Pleistocene strata form the
+ up-lifted, 0 -- 30 m-high isth-mus sep-a-rat-ing the
+ []
+
+Package epstopdf Info: Source file: <Haiti_figure3.eps>
+(epstopdf)                    date: 2017-11-21 21:10:55
+(epstopdf)                    size: 12819614 bytes
+(epstopdf)             Output file: <Haiti_figure3-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-21 21:39:09
+(epstopdf)                    size: 708444 bytes
+(epstopdf)             Command: <repstopdf --outfile=Haiti_figure3-eps-converte
+d-to.pdf Haiti_figure3.eps>
+(epstopdf)             \includegraphics on input line 209.
+Package epstopdf Info: Output file is already uptodate.
+<Haiti_figure3-eps-converted-to.pdf, id=102, 639.38875pt x 693.59125pt>
+File: Haiti_figure3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Haiti_figure3-eps-converted-to.pdf>
+Package pdftex.def Info: Haiti_figure3-eps-converted-to.pdf used on input line 
+209.
+(pdftex.def)             Requested size: 397.48499pt x 431.1863pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
+[]\T1/ntxtlf/b/n/9 Figure  6. Chirp sonar pro-files show-ing the re-la-tion-shi
+p of the trace of the EPGFZ and a newly de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
+\T1/ntxtlf/b/n/9 scribed thrust we have named the Ji-mani thrust. \T1/ntxtlf/m/
+n/9 Cross sec-tions of A, and B are in-di-cated in Fig-ure 2[]A.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
+\T1/ntxtlf/m/n/9 The EPGFZ be-neath Lake Azuey forms a 10 m-wide zone that can 
+be traced as a lin-ea-ment to the east and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
+\T1/ntxtlf/m/n/9 west of Lake Azuey (Fig-ure 2[]). The green and red hori-zons 
+rep-re-sent two dis-tin-guish strati-graphic lay-ers. The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
+\T1/ntxtlf/m/n/9 two strands of the EPGFZ are buried by 0.7 m of Holocene sed-i
+-ment and are ex-trap-o-lated to be 250 years old
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
+\T1/ntxtlf/m/n/9 since their last rup-ture when a sed-i-men-ta-tion rate of 2.6
+ mm/yr is as-sumed. Folds as-so-ciate with the Ji-mani
+ []
+
+Package epstopdf Info: Source file: <Haiti_figure7.eps>
+(epstopdf)                    date: 2018-03-28 23:32:39
+(epstopdf)                    size: 52071970 bytes
+(epstopdf)             Output file: <Haiti_figure7-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 23:33:29
+(epstopdf)                    size: 5112414 bytes
+(epstopdf)             Command: <repstopdf --outfile=Haiti_figure7-eps-converte
+d-to.pdf Haiti_figure7.eps>
+(epstopdf)             \includegraphics on input line 216.
+Package epstopdf Info: Output file is already uptodate.
+<Haiti_figure7-eps-converted-to.pdf, id=103, 1416.29124pt x 1121.18875pt>
+File: Haiti_figure7-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Haiti_figure7-eps-converted-to.pdf>
+Package pdftex.def Info: Haiti_figure7-eps-converted-to.pdf used on input line 
+216.
+(pdftex.def)             Requested size: 397.48499pt x 314.64925pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+[]\T1/ntxtlf/b/n/9 Figure  7. Struc-ture and 2010 co-seis-mic sur-face de-for-m
+a-tion of the west-ern seg-ments of the EPGFZ.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+\T1/ntxtlf/b/n/9 A: \T1/ntxtlf/m/n/9 Struc-ture [\T1/ntxtlf/m/it/9 Pren-tice et
+ al.\T1/ntxtlf/m/n/9 , 2010] and af-ter-shock [\T1/ntxtlf/m/it/9 Douilly et al.
+\T1/ntxtlf/m/n/9 , 2015] map of Miragoâne-Léogâne re-gion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+\T1/ntxtlf/m/n/9 over-lain with an In-SAR im-age. \T1/ntxtlf/b/n/9 B: \T1/ntxtl
+f/m/n/9 Zoom of the area of Pe-tit Goave and Lake Mi-ragoâne show-ing the struc
+-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+\T1/ntxtlf/m/n/9 and bathymetry of the 14 km$[]$, pull-apart basin mapped be-ne
+ath Lake Mi-ragoâne dur-ing this study and de-tails
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+\T1/ntxtlf/m/n/9 of the 2010 sur-face frac-tur-ing and co-seis-mic sub-si-dence
+ in the Pe-tit Goâve Bay [\T1/ntxtlf/m/it/9 Pren-tice et al.\T1/ntxtlf/m/n/9 , 
+2010]. \T1/ntxtlf/b/n/9 LM \T1/ntxtlf/m/n/9 =
+ []
+
+Package epstopdf Info: Source file: <Haiti_figure8.eps>
+(epstopdf)                    date: 2018-03-28 23:37:40
+(epstopdf)                    size: 128728258 bytes
+(epstopdf)             Output file: <Haiti_figure8-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-28 23:37:52
+(epstopdf)                    size: 32290442 bytes
+(epstopdf)             Command: <repstopdf --outfile=Haiti_figure8-eps-converte
+d-to.pdf Haiti_figure8.eps>
+(epstopdf)             \includegraphics on input line 223.
+Package epstopdf Info: Output file is already uptodate.
+<Haiti_figure8-eps-converted-to.pdf, id=104, 1254.6875pt x 549.05125pt>
+File: Haiti_figure8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Haiti_figure8-eps-converted-to.pdf>
+Package pdftex.def Info: Haiti_figure8-eps-converted-to.pdf used on input line 
+223.
+(pdftex.def)             Requested size: 397.48499pt x 173.94064pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+[]\T1/ntxtlf/b/n/9 Figure  8. Ge-o-logic set-ting and sonar pro-files from Lake
+ Mi-ragoâne. A: \T1/ntxtlf/m/n/9 View look-ing south across the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+\T1/ntxtlf/m/n/9 12 km-wide and 42.8 m deep, fresh-wa-ter lake. The 2 km-high, 
+ridge along the south-ern edge of the lake is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+\T1/ntxtlf/m/n/9 of the EPGFZ is 3 km to the north of this strand and forms the
+ north-ern edge of the pull-apart basin. The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+\T1/ntxtlf/m/n/9 core was taken by \T1/ntxtlf/m/it/9 Higuera-Gundy et al. \T1/n
+txtlf/m/n/9 [1999] and was not col-lected from the deep-est part of the lake. \
+T1/ntxtlf/b/n/9 B:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+\T1/ntxtlf/m/n/9 North-south trend-ing line M1 (lo-ca-tion shown on Fig-ure 7[]
+B). \T1/ntxtlf/b/n/9 C: \T1/ntxtlf/m/n/9 East-west trend-ing line M5 (lo-ca-tio
+n shown
+ []
+
+Package epstopdf Info: Source file: <Haiti_figure9.eps>
+(epstopdf)                    date: 2017-10-05 10:06:33
+(epstopdf)                    size: 3013078 bytes
+(epstopdf)             Output file: <Haiti_figure9-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-10-11 19:28:58
+(epstopdf)                    size: 113340 bytes
+(epstopdf)             Command: <repstopdf --outfile=Haiti_figure9-eps-converte
+d-to.pdf Haiti_figure9.eps>
+(epstopdf)             \includegraphics on input line 230.
+Package epstopdf Info: Output file is already uptodate.
+<Haiti_figure9-eps-converted-to.pdf, id=105, 817.0525pt x 600.2425pt>
+File: Haiti_figure9-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Haiti_figure9-eps-converted-to.pdf>
+Package pdftex.def Info: Haiti_figure9-eps-converted-to.pdf used on input line 
+230.
+(pdftex.def)             Requested size: 397.48499pt x 292.01483pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+[]\T1/ntxtlf/b/n/9 Figure  9. Core data from Lake Mi-ragoâne. A: \T1/ntxtlf/m/n
+/9 Tie be-tween chirp sonar and core [\T1/ntxtlf/m/it/9 Higuera-Gundy et al.\T1
+/ntxtlf/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+\T1/ntxtlf/m/n/9 1999] ex-tend-ing to la-cus-trine sed-i-ments de-formed by the
+ EPGFZ $[]$. \T1/ntxtlf/b/n/9 B: \T1/ntxtlf/m/n/9 Low-pass fil-tered E/P
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+\T1/ntxtlf/m/n/9 log (red) and the syn-thetic sonar pro-file gen-er-ated from t
+he low-pass fil-tered E/P log used as an acous-tic
+ []
+
+Package epstopdf Info: Source file: <Haiti_figure10.eps>
+(epstopdf)                    date: 2017-11-19 17:12:46
+(epstopdf)                    size: 6365034 bytes
+(epstopdf)             Output file: <Haiti_figure10-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-21 17:27:28
+(epstopdf)                    size: 858856 bytes
+(epstopdf)             Command: <repstopdf --outfile=Haiti_figure10-eps-convert
+ed-to.pdf Haiti_figure10.eps>
+(epstopdf)             \includegraphics on input line 237.
+Package epstopdf Info: Output file is already uptodate.
+<Haiti_figure10-eps-converted-to.pdf, id=106, 819.06pt x 695.59875pt>
+File: Haiti_figure10-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Haiti_figure10-eps-converted-to.pdf>
+Package pdftex.def Info: Haiti_figure10-eps-converted-to.pdf used on input line
+ 237.
+(pdftex.def)             Requested size: 397.48499pt x 337.57727pt.
+
+Underfull \hbox (badness 4036) in paragraph at lines 238--238
+[]\T1/ntxtlf/b/n/9 Figure  10. Three-dimensional block di-a-gram show-ing []the
+ [][]struc[]-[]tural, [][]af[]-[]ter[]-[]shocks, [][]and [][]the [][]late
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 238--238
+[][]\T1/ntxtlf/b/n/9 Holocene [][]strain [][]par[]-[]ti[]-[]tion[]-[]ing in a 4
+0-km-wide zone along a 120 km-long seg-ment of the EPGFZ. \T1/ntxtlf/m/n/9 Blac
+k
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+\T1/ntxtlf/m/n/9 of oblique thrusts and folds north of the EPGFZ. \T1/ntxtlf/b/
+n/9 PaP \T1/ntxtlf/m/n/9 = Port-au-Prince; \T1/ntxtlf/b/n/9 PG \T1/ntxtlf/m/n/9
+ = Pe-tit Goave; \T1/ntxtlf/b/n/9 LA \T1/ntxtlf/m/n/9 = Lake Azuey;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+\T1/ntxtlf/b/n/9 LM \T1/ntxtlf/m/n/9 = Lake Miragoâne-Léogâne; \T1/ntxtlf/b/n/9
+ JF \T1/ntxtlf/m/n/9 = Ji-mani thrust fault; \T1/ntxtlf/b/n/9 LMF \T1/ntxtlf/m/
+n/9 = Lamartin thrust fault; \T1/ntxtlf/b/n/9 TBF \T1/ntxtlf/m/n/9 = Trois Baie
+s
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+\T1/ntxtlf/m/n/9 thrust fault; \T1/ntxtlf/b/n/9 LF \T1/ntxtlf/m/n/9 = Léogâne f
+ault. The in-serted schematic di-a-gram, mod-i-fied from \T1/ntxtlf/m/it/9 Sib-
+son \T1/ntxtlf/m/n/9 [2012]. rep-re-sents
+ []
+
+Package epstopdf Info: Source file: <Haiti_figure11.eps>
+(epstopdf)                    date: 2017-11-19 17:49:10
+(epstopdf)                    size: 44862194 bytes
+(epstopdf)             Output file: <Haiti_figure11-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-21 17:27:30
+(epstopdf)                    size: 2086796 bytes
+(epstopdf)             Command: <repstopdf --outfile=Haiti_figure11-eps-convert
+ed-to.pdf Haiti_figure11.eps>
+(epstopdf)             \includegraphics on input line 244.
+Package epstopdf Info: Output file is already uptodate.
+<Haiti_figure11-eps-converted-to.pdf, id=107, 820.06375pt x 574.145pt>
+File: Haiti_figure11-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Haiti_figure11-eps-converted-to.pdf>
+Package pdftex.def Info: Haiti_figure11-eps-converted-to.pdf used on input line
+ 244.
+(pdftex.def)             Requested size: 397.48499pt x 278.29353pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+[]\T1/ntxtlf/b/n/9 Figure  11. Struc-tural map of the []south[]-[]ern San Fran-
+cisco Bay re-gion, the cos-seismic el-e-va-tion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+\T1/ntxtlf/b/n/9 the af-ter-shock cross-section of 1989 $\OML/ntxmi/m/it/9 M[]$
+ \T1/ntxtlf/b/n/9 6.9 Loma Pri-eta earth-quake. \T1/ntxtlf/m/n/9 The cos-seismi
+c el-e-va-tion change
+ []
+
+[27] [28 <./Haiti_figure1-eps-converted-to.pdf>] [29 <./Haiti_figure2-eps-conve
+rted-to.pdf>] [30 <./Haiti_figure4-eps-converted-to.pdf>] [31 <./Haiti_figure6-
+eps-converted-to.pdf>] [32 <./Haiti_figure5-eps-converted-to.pdf>] [33 <./Haiti
+_figure3-eps-converted-to.pdf>] [34 <./Haiti_figure7-eps-converted-to.pdf>]
+[35 <./Haiti_figure8-eps-converted-to.pdf>] [36 <./Haiti_figure9-eps-converted-
+to.pdf>] [37 <./Haiti_figure10-eps-converted-to.pdf>] [38 <./Haiti_figure11-eps
+-converted-to.pdf>] (./Haiti_agu.aux) ) 
+Here is how much of TeX's memory you used:
+ 6717 strings out of 492995
+ 91782 string characters out of 6132704
+ 172583 words of memory out of 5000000
+ 10070 multiletter control sequences out of 15000+600000
+ 87237 words of font info for 124 fonts, out of 8000000 for 9000
+ 1147 hyphenation exceptions out of 8191
+ 41i,8n,37p,2359b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/font
+s/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/
+dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips
+/base/8r.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.
+enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/tex-gyre/qtmbi.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb></usr/local/texlive/2017
+/texmf-dist/fonts/type1/public/newtx/rntxbmi.pfb></usr/local/texlive/2017/texmf
+-dist/fonts/type1/public/newtx/rntxmi7.pfb></usr/local/texlive/2017/texmf-dist/
+fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2017/texmf-dist/fonts/
+type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
+public/newtx/txsys.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/time
+s/utmri8a.pfb>
+Output written on Haiti_agu.pdf (38 pages, 54280987 bytes).
+PDF statistics:
+ 782 PDF objects out of 1000 (max. 8388607)
+ 289 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+

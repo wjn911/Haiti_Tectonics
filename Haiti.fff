@@ -1,0 +1,61 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics[width=\textwidth]{figure1}
+\caption{\textbf{Active tectonics and structure in the Haiti region.} \textbf{A:}
+Color-coded, free-air gravity anomaly map around Hispaniola (obtained from the Satellite Geodesy Research Group, UCSD: http://topex.ucsd.edu). The black solid lines are active, plate boundary faults and the arrows indicate GPS velocity vectors relatively to a fixed Caribbean plate \citep{calais2010transpressional}. NHM: North Hispaniola microplate; HM: Hispaniola microplate; GM: Gon\^ave microplate; PRVIM: Puerto Rico-Virgin Islands microplate. \textbf{B:} Regional structure map of the southern peninsula of Haiti with the active, left-lateral Enriquillo-Plantain Garden fault zone (EPGFZ) cutting diagonally across the peninsula \citep{mann1984subaerially,mann1995actively}. Boxes show locations of more detailed maps of the EPGFZ and secondary faults in Figures \ref{figure2}A and \ref{figure3}A. PAPB: Port-au-Prince Bay; LM: Lake Mirago\^ane; LA: Lake Azuey; LE: Lake Enriquillo.}
+\label{figure1}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics[width=\textwidth]{figure2}
+\caption{\textbf{Structure of the EPGFZ in eastern Haiti. A:} Geologic faults and folds along a 15 km-wide corridor parallel to the EPGFZ superimposed on a modified DEM and InSAR surface deformation map \citep{hayes2010complex,hashimoto2011fan}. Chirp bathymetry of the Lake Azuey is also shown. PaP T: Port-au-Prince thrust; DT: Dumay thrust; NaC: Nan Cadastre thrust; Jac: Jacquet thrust; Gant T: Ganthier thrust; LF: L\'eog\^ane fault. \textbf{B, C:} Chirp sonar profiles indicated by white arrows in Figure~2A.}
+\label{figure2}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics[width=\textwidth]{figure3}
+\caption{\textbf{Structure of the EPGFZ in eastern Haiti and western-most Dominican Republic. A:} Topographic DEM showing the location of the folding and faulting belt north of the EPGFZ. Inset map shows asymptotic trend of the fold axes within 3-5 km of the EPGFZ. \textbf{B:} Cross-section interpretations of lines A-A', B-B', and C-C'. \textbf{C:} Stratigraphic correlation between Lake Azuey and Lake Enriquillo. Line B6 and Line L19 are indicated in Figure~1B.}
+\label{figure3}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics[width=\textwidth]{figure4}
+\caption{\textbf{Structure of the EPGFZ in the Mirago\^ane-L\'eog\^ane region. A:} Structure \citep{prentice2010seismic} and aftershock \citep{douilly2015three} map of Mirago\^ane-L\'eog\^ane region overlain with an InSAR image. \textbf{B:} Bathymetry of Lake Mirago\^ane in the two traces of the EPGFZ surface fracture map.}
+\label{figure4}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics[width=\textwidth]{figure5}
+\caption{\textbf{Sonar profiles and core data from Lake Mirago\^ane.} \textbf{A:} Sonar profile M1. \textbf{B:} Sonar profile M5. \textbf{C:} Tie between chirp sonar and core \citep{higuera199910} extending to lacustrine sediments deformed by the EPGFZ at 1770. \textbf{D:} Low-pass filtered E/P log (red) and the synthetic sonar profile generated from the low-pass filtered E/P log used as an acoustic impedance. Red bar in the Figure~3C,D is the core measurement \citep{higuera199910} location.}
+\label{figure5}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\includegraphics[width=\textwidth]{figure6}
+\caption{\textbf{Three-dimensional block diagram showing the structural and aftershock expression of late Holocene strain partitioning in a 40-km-wide zone along a 120 km-long segment of the EPGFZ.} Black arrows show southwest direction of the Gon\^ave microplate relative to the Caribbean plate and 2010 InSAR-derived surface deformation map show and large component of shortening accommodated on a 40-km-wide zone of oblique thrusts and folds north of the EPGFZ. PaP: Port-au-Prince; PG: Petit Goave; LA: Lake Azuey; LM: Lake Mirago\^ane-L\'eog\^ane; JF: Jimani thrust fault; LMF: Lamartin thrust fault; TBF: Trois Baies thrust fault; LF: L\'eog\^ane fault.}
+\label{figure6}
+\end{figure*}
+\efloatseparator
+ 

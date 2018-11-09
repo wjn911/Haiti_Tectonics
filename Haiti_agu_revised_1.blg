@@ -1,0 +1,108 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Haiti_agu_revised_1.aux
+The style file: agufull08.bst
+I found no \bibdata command---while reading file Haiti_agu_revised_1.aux
+Warning--I didn't find a database entry for "prentice2010seismic"
+Warning--I didn't find a database entry for "bilham2010lessons"
+Warning--I didn't find a database entry for "paultre2013damage"
+Warning--I didn't find a database entry for "kocel2016near"
+Warning--I didn't find a database entry for "hayes2010complex"
+Warning--I didn't find a database entry for "hashimoto2011fan"
+Warning--I didn't find a database entry for "cowgill2012interactive"
+Warning--I didn't find a database entry for "calais2010transpressional"
+Warning--I didn't find a database entry for "nettles2010earthquake"
+Warning--I didn't find a database entry for "symithe2013coseismic"
+Warning--I didn't find a database entry for "douilly2013crustal"
+Warning--I didn't find a database entry for "douilly2015three"
+Warning--I didn't find a database entry for "koehler2011field"
+Warning--I didn't find a database entry for "rathje2014geotechnical"
+Warning--I didn't find a database entry for "saint2015seismotectonics"
+Warning--I didn't find a database entry for "hornbach2010high"
+Warning--I didn't find a database entry for "mercier20112010"
+Warning--I didn't find a database entry for "mchugh2011offshore"
+Warning--I didn't find a database entry for "mann1995actively"
+Warning--I didn't find a database entry for "benford2012gps"
+Warning--I didn't find a database entry for "corbeau2016transpressive"
+Warning--I didn't find a database entry for "calais2016plate"
+Warning--I didn't find a database entry for "calais2002strain"
+Warning--I didn't find a database entry for "segall1990surface"
+Warning--I didn't find a database entry for "mount1987state"
+Warning--I didn't find a database entry for "Fielding2013"
+Warning--I didn't find a database entry for "frankel2011seismic"
+Warning--I didn't find a database entry for "massoni1955haiti"
+Warning--I didn't find a database entry for "terrier2014revision"
+Warning--I didn't find a database entry for "wright2015factors"
+Warning--I didn't find a database entry for "piasecki2016bathymetric"
+Warning--I didn't find a database entry for "moknatian2017development"
+Warning--I didn't find a database entry for "rico2017hydrodynamic"
+Warning--I didn't find a database entry for "dolan1998active"
+Warning--I didn't find a database entry for "mann2002oblique"
+Warning--I didn't find a database entry for "bakun2012significant"
+Warning--I didn't find a database entry for "prentice1993paleoseismicity"
+Warning--I didn't find a database entry for "leroy2015segmentation"
+Warning--I didn't find a database entry for "grindlay2005high"
+Warning--I didn't find a database entry for "kroehler2011late"
+Warning--I didn't find a database entry for "bien1986contribution"
+Warning--I didn't find a database entry for "bruna2009morphotectonics"
+Warning--I didn't find a database entry for "symithe2016present"
+Warning--I didn't find a database entry for "pubellier2000plate"
+Warning--I didn't find a database entry for "sylvester1988strike"
+Warning--I didn't find a database entry for "bilham2013remote"
+Warning--I didn't find a database entry for "odonne1983analogue"
+Warning--I didn't find a database entry for "cox2011shear"
+Warning--I didn't find a database entry for "bourgueil1988synthese"
+Warning--I didn't find a database entry for "rios2013holocene"
+Warning--I didn't find a database entry for "taylor1985stratigraphy"
+Warning--I didn't find a database entry for "higuera199910"
+Warning--I didn't find a database entry for "mann1999caribbean"
+Warning--I didn't find a database entry for "mann1991overview"
+Warning--I didn't find a database entry for "sibson2012reverse"
+Warning--I didn't find a database entry for "chen2002conjugate"
+Warning--I didn't find a database entry for "lin2017coseismic"
+Warning--I didn't find a database entry for "marshall1991faulting"
+Warning--I didn't find a database entry for "UNAVCO2009"
+Warning--I didn't find a database entry for "olson1990seismicity"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 0 entries,
+            3076 wiz_defined-function locations,
+            1128 strings with 10427 characters,
+and the built_in function-call counts, 33 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 1
+* -- 2
+:= -- 10
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 1
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 7
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 6
+(There was 1 error message)

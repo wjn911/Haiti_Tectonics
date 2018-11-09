@@ -1,0 +1,11 @@
+Bachhuber, J.L., Rathje E.M., Cox B.R., Dulberg R.A., Kottke A., Wood C. (GEER team) (2010). Carte géologique de Port-au-Prince, Haiti. Rev 1: December 2010. http://web.ics.purdue.edu/~ecalais/haiti/macrozonation/PAP_PDFs/pap_carte_geologique_2010_fr_11x17.pdf
+
+@article{bachhuber2010geer,
+  title={GEER team (2010)},
+  author={Bachhuber, JL and Rathje, EM and Cox, BR and Dulberg, RA and Kottke, A and Wood, C},
+  journal={Carte Geologique de Port-au-Prince, Haiti. Bureau des Mines et de l'Energie, Haiti, Rev},
+  volume={1},
+  pages={15},
+  year={2010}
+}
+

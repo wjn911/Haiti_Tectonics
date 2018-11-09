@@ -1,0 +1,33 @@
+@article{rathje2011damage,
+  title={{Damage patterns in Port-au-Prince during the 2010 Haiti earthquake}},
+  author={Rathje, Ellen M and Bachhuber, Jeff and Dulberg, Ranon and Cox, Brady R and Kottke, Albert and Wood, Clinton and Green, Russell A and Olson, Scott and Wells, Donald and Rix, Glenn},
+  journal={Earthquake Spectra},
+  volume={27},
+  number={S1},
+  pages={S117--S136},
+  year={2011}
+}
+
+Rathje et al., 2011
+ Rathje et al., 2014
+
+Rathje, E. M., J. Bachhuber, R. Dulberg, B. R. Cox, A. Kottke, C. Wood, R. A. Green, S. Olson, D. Wells, and G. Rix (2011), Damage patterns in Port-au-Prince during the 2010 Haiti earthquake, Earthquake Spectra, 27(S1), S117–S136.
+
+Jeffrey L. Bachhuber, Ellen M. Rathje, Brady R. Cox, Ranon A. Dulberg, Albert Kottke, Clint Wood, GEER Team
+
+@manual{Bachhuber2010,
+      title  = "{Carte g{\'e}ologique de Port-au-Prince}",
+      author = "Jeffrey L. Bachhuber, Ellen M. Rathje, Brady R. Cox, Ranon A. Dulberg, Albert Kottke, Clint Wood, GEER Team",
+      url    = "http://web.ics.purdue.edu/~ecalais/haiti/macrozonation/PAP_PDFs/pap_carte_geologique_2010_fr_11x17.pdf",
+      year   = "2010"
+    }
+
+
+Bachhuber et al., 2010; Rathje et al., 2011  Saint Fleur et al., 2015,
+
+Bachhuber, J., E. M. Rathje, B. R. Cox, R. A. Dulberg, A. Kottke, C. Wood, and G. Team (2010), Carte géologique de Port-au-Prince, http://web.ics.purdue.edu/ ~ecalais/haiti/macrozonation/PAP_PDFs/pap_carte_geologique_2010_fr_ 11x17.pdf.
+
+Rathje, E. M., J. Bachhuber, R. Dulberg, B. R. Cox, A. Kottke, C. Wood, R. A. Green, S. Olson, D. Wells, and G. Rix (2011), Damage patterns in Port-au-Prince during the 2010 Haiti earthquake, Earthquake Spectra, 27(S1), S117–S136.
+
+
+Butterlin, 1960

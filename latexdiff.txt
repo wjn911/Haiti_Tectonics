@@ -1,0 +1,1 @@
+latexdiff --encoding=ascii Haiti_agu_revised_2.tex Haiti_agu_revised_3.tex > Haiti_agu_revised_3_highlight.tex
